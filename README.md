@@ -116,16 +116,16 @@ Este projeto foi desenvolvido como parte da disciplina de IA Generativa e Redes 
 ├── GS_2025.01_2TIA_GENAI.docx (documento original do projeto)
 ├── Relatório Técnico.docx (Entregavel)
 ├── Relatório de Avaliação do Assistente Virtual RAG.docx 
-├── docsw/
-│   ├── PortugalP1-4.docx
-│   ├── manualdeprimeirossocorros.docx
-│   ├── Manual-de-Gerenciamento-de-Desastres.docx
-│   ├── icrc_007_0870.docx
-│   ├── guia_preparacao_respostas_emergencia_saude_publica_inundacao.docx
-│   ├── cartilha-primeiros-socorros.docx
-│   ├── Cartilha_prevencao_de_desastres.docx
-│   └── cartilha_emergencias_desastres_compressed.txt
-└── requisitos.txt
+└── docsw/
+    ├── PortugalP1-4.docx
+    ├── manualdeprimeirossocorros.docx
+    ├── Manual-de-Gerenciamento-de-Desastres.docx
+    ├── icrc_007_0870.docx
+    ├── guia_preparacao_respostas_emergencia_saude_publica_inundacao.docx
+    ├── cartilha-primeiros-socorros.docx
+    ├── Cartilha_prevencao_de_desastres.docx
+    └── cartilha_emergencias_desastres_compressed.txt
+
 ```
 ## 🚀 Execução
 Suba o notebook no Google Colab. [(Assistente_Virtual_Para_Desastres_Naturais)](https://colab.research.google.com/drive/1p_5ZCDpaA8EDqkkxtN_ON4Ui_5yhqnbD?usp=sharing).  
