@@ -110,10 +110,12 @@ Este projeto foi desenvolvido como parte da disciplina de IA Generativa e Redes 
 
 ## 📁 Estrutura do Projeto
 ```bash
-📦 assistente-rag-desastres
+📦 Assistente_Virtual_Para_Desastres_Naturais
 ├── README.md
-├── relatorio_final.docx
-├── assistente_virtual_colab.ipynb
+├── Assistente_Virtual_Para_Desastres_Naturais.ipynb (colab)
+├── GS_2025.01_2TIA_GENAI.docx (documento original do projeto)
+├── Relatório Técnico.docx (Entregavel)
+├── Relatório de Avaliação do Assistente Virtual RAG.docx 
 ├── docsw/
 │   ├── PortugalP1-4.docx
 │   ├── manualdeprimeirossocorros.docx
